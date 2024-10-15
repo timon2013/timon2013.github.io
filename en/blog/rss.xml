@@ -30,7 +30,7 @@
 <!-- -->Below is an example of what it looks like when using the EC2 service:</p>
 </li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="alt text" src="https://piotrkmita.cloud/en/assets/images/ConsoleToCode-63aa130b3160cd5a3e9da38d770364c8.png" title="ConsoleToCode" width="3795" height="1325" class="img_ev3q"></p>
+<p><a href="https://piotrkmita.cloud/en/assets/files/ConsoleToCode-63aa130b3160cd5a3e9da38d770364c8.png" target="_blank"> <img decoding="async" loading="lazy" alt="alt text" src="https://piotrkmita.cloud/en/assets/images/ConsoleToCode-63aa130b3160cd5a3e9da38d770364c8.png" width="3795" height="1325" class="img_ev3q"> </a></p>
 <ol start="3">
 <li><strong>Code Customization</strong>: The generated code can serve as a starting point for further customization to meet specific production needs. Users are encouraged to test and verify the generated code before deployment.</li>
 </ol>
