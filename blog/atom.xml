@@ -120,8 +120,8 @@ Przykładowo:</p>
         </author>
         <category label="kubernetes" term="kubernetes"/>
         <category label="ckad" term="ckad"/>
-        <category label="bash" term="bash"/>
         <category label="certification" term="certification"/>
+        <category label="devops" term="devops"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nowa usługa Console-to-Code do Amazon AWS]]></title>
@@ -183,12 +183,11 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
             <name>Piotr Kmita</name>
             <uri>https://github.com/timon2013/</uri>
         </author>
-        <category label="amazon aws" term="amazon aws"/>
-        <category label="amazon" term="amazon"/>
-        <category label="ai" term="ai"/>
         <category label="aws" term="aws"/>
-        <category label="cli" term="cli"/>
-        <category label="code" term="code"/>
+        <category label="console-to-code" term="console-to-code"/>
+        <category label="ai" term="ai"/>
+        <category label="devops" term="devops"/>
+        <category label="iac" term="iac"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wyzwanie Amazon Q dla programistów]]></title>
@@ -204,11 +203,10 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
             <name>Piotr Kmita</name>
             <uri>https://github.com/timon2013/</uri>
         </author>
-        <category label="amazon q" term="amazon q"/>
-        <category label="amazon" term="amazon"/>
+        <category label="aws" term="aws"/>
+        <category label="amazon-q" term="amazon-q"/>
         <category label="ai" term="ai"/>
-        <category label="gen ai" term="gen ai"/>
-        <category label="challenge" term="challenge"/>
+        <category label="devops" term="devops"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Odkryj moc Amazon Q]]></title>
@@ -244,11 +242,10 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
             <name>Piotr Kmita</name>
             <uri>https://github.com/timon2013/</uri>
         </author>
-        <category label="amazon q" term="amazon q"/>
-        <category label="amazon" term="amazon"/>
-        <category label="visual studio code" term="visual studio code"/>
+        <category label="aws" term="aws"/>
+        <category label="amazon-q" term="amazon-q"/>
         <category label="ai" term="ai"/>
-        <category label="gen ai" term="gen ai"/>
+        <category label="vscode" term="vscode"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Witaj]]></title>
@@ -262,9 +259,7 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
             <name>Piotr Kmita</name>
             <uri>https://github.com/timon2013/</uri>
         </author>
-        <category label="welcome" term="welcome"/>
-        <category label="hello" term="hello"/>
-        <category label="site" term="site"/>
+        <category label="docusaurus" term="docusaurus"/>
         <category label="blog" term="blog"/>
     </entry>
 </feed>

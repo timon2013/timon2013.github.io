@@ -120,8 +120,8 @@ Przykładowo:</p>
         </author>
         <category label="kubernetes" term="kubernetes"/>
         <category label="ckad" term="ckad"/>
-        <category label="bash" term="bash"/>
         <category label="certification" term="certification"/>
+        <category label="devops" term="devops"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[New Console-to-Code Service for Amazon AWS]]></title>
