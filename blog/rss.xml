@@ -117,8 +117,8 @@ Przykładowo:</p>
 <p>Mam nadzieję, że moje wskazówki pomogą Ci w efektywnych przygotowaniach do <strong>egzaminu CKAD</strong>. Powodzenia w nauce i do zobaczenia w świecie Kubernetes! 🎉</p>]]></content:encoded>
             <category>kubernetes</category>
             <category>ckad</category>
-            <category>bash</category>
             <category>certification</category>
+            <category>devops</category>
         </item>
         <item>
             <title><![CDATA[Nowa usługa Console-to-Code do Amazon AWS]]></title>
@@ -176,12 +176,11 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podsumowanie">Podsumowanie<a href="https://piotrkmita.cloud/blog/amazon-console-to-code/#podsumowanie" class="hash-link" aria-label="Bezpośredni link do Podsumowanie" title="Bezpośredni link do Podsumowanie">​</a></h2>
 <p>AWS Console-to-Code to innowacyjne narzędzie, które łączy prostotę korzystania z konsoli z mocą Infrastructure-as-Code (IaC). Umożliwia użytkownikom łatwe przejście od prototypowania do produkcji, co czyni go cennym dodatkiem dla deweloperów i inżynierów DevOps.</p>]]></content:encoded>
-            <category>amazon aws</category>
-            <category>amazon</category>
-            <category>ai</category>
             <category>aws</category>
-            <category>cli</category>
-            <category>code</category>
+            <category>console-to-code</category>
+            <category>ai</category>
+            <category>devops</category>
+            <category>iac</category>
         </item>
         <item>
             <title><![CDATA[Wyzwanie Amazon Q dla programistów]]></title>
@@ -193,11 +192,10 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
 <p>Amazon Q Developer Code Challenge, zorganizowany podczas AWS Summit 2024, to rywalizacja między zespołem korzystającym z asystenta AI, Amazon Q Developer, a zespołem kodującym ręcznie.</p>
 <p>Zespół wspomagany AI wykazał się większą wydajnością, szybciej realizując złożone zadania dzięki podpowiedziom generowanym przez narzędzie. Wydarzenie pokazało, jak AI może znacząco zwiększyć produktywność w programowaniu, wspierając kodowanie i rozwiązywanie problemów.</p>
 <p>Więcej informacji znajdziesz <a href="https://aws.amazon.com/blogs/devops/amazon-q-developer-code-challenge/" target="_blank" rel="noopener noreferrer">tutaj</a>.</p>]]></content:encoded>
-            <category>amazon q</category>
-            <category>amazon</category>
+            <category>aws</category>
+            <category>amazon-q</category>
             <category>ai</category>
-            <category>gen ai</category>
-            <category>challenge</category>
+            <category>devops</category>
         </item>
         <item>
             <title><![CDATA[Odkryj moc Amazon Q]]></title>
@@ -229,11 +227,10 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
 <p>Podsumowując, Amazon Q to nie tylko asystent AI; to kompleksowe narzędzie zaprojektowane, aby napędzać innowacje i efektywność w nowoczesnych środowiskach biznesowych. Dzięki zaawansowanym funkcjom i przyjaznym dla użytkownika możliwościom, Amazon Q ma szansę stać się nieocenionym zasobem dla firm pragnących wykorzystać moc AI.</p>
 <p>Sam używam Amazon Q zintegrowanego z Visual Studio Code. Przyspiesza mi to pisanie skryptów, choć czasami bywa to nieco irytujące. Jeśli masz ochotę również tego używać w swoim środowisku, podrzucam Ci oficjalną dokumentację: <a href="https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/welcome.html" target="_blank" rel="noopener noreferrer">AWS Toolkit dla Visual Studio Code</a>.</p>
 <p>Dzięki tej integracji, możesz zwiększyć swoją produktywność i efektywność w codziennej pracy programistycznej, korzystając z zaawansowanych funkcji AI bezpośrednio w Visual Studio Code.</p>]]></content:encoded>
-            <category>amazon q</category>
-            <category>amazon</category>
-            <category>visual studio code</category>
+            <category>aws</category>
+            <category>amazon-q</category>
             <category>ai</category>
-            <category>gen ai</category>
+            <category>vscode</category>
         </item>
         <item>
             <title><![CDATA[Witaj]]></title>
@@ -243,9 +240,7 @@ Poniżej zobaczycie jak to wygląda, będąc w usłudze EC2:</p>
             <description><![CDATA[Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)]]></description>
             <content:encoded><![CDATA[<p>Witaj na mojej stronie! To pierwszy wpis na tym blogu, i mam nadzieję, że nie ostatni :)</p>
 <p>Zdecydowałem się stworzyć prostą stronę, którą będę mógł utrzymać i zarządzać bez większego nakładu czasu. Wcześniej korzystałem głównie z systemu Wordpress, ale tym razem postawiłem na rozwiązanie Docusaurus.io. Pozwala mi to na integrację ze środowiskiem Github oraz na pisanie postów za pomocą Markdown.</p>]]></content:encoded>
-            <category>welcome</category>
-            <category>hello</category>
-            <category>site</category>
+            <category>docusaurus</category>
             <category>blog</category>
         </item>
     </channel>
